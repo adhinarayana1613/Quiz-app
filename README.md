@@ -1,1 +1,1 @@
-Quiz-app
+Quiz-app.com
